@@ -1,6 +1,6 @@
 # Optimizer-cotw
 Response to Siraj Raval's weekly challenge in [The Evolution of Gradient Descent](https://www.youtube.com/watch?v=nhqo0u1a6fw) video
-This code is base on a previews challange on (earthquake)[https://github.com/alkaya/earthquake-cotw]
+This code is base on a previews challange on [earthquake](https://github.com/alkaya/earthquake-cotw)
 
 # Dependencies
 Only Python 3.5, Numpy and Matlibplot !
@@ -14,5 +14,5 @@ $ python3 main.py
 ```
 
 # Result example
-![alt text](https://github.com/alkaya/optimiser-cotw/raw/master/assets/Figure_1.png "screenshot")
+![alt text](https://raw.githubusercontent.com/alkaya/Optimizer-cotw/master/assets/Figure_1.png "screenshot")
 
